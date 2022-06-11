@@ -1,0 +1,40 @@
+#container{
+	width: 500px;
+	height:100px;
+	background-color: black;
+	border: solid 1px;
+	
+
+}
+#timer{
+	width: 500px;
+	height: 100px;
+	color: white;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+    /*align-content: center;*/
+    font-size: xxx-large;
+
+
+
+
+}
+#buttons{
+	display: flex;
+	align-items: center;	
+	justify-content: space-evenly;
+	
+}
+#start{
+	background-color: black;
+	color: white;
+}
+#stop{
+	background-color: black;
+	color: white;
+}
+#reset{
+	background-color: black;
+	color: white;
+/*}*/
